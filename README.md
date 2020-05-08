@@ -1,5 +1,9 @@
 # The Story Writer
 
+<p>
+  <img height=450 style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" src="Images/logo.png"/>
+</p>
+
 This app is a light spin-off of the [Terribly Dank Tales](https://www.facebook.com/terriblydanktalestdt/), but in mobile version,
 and also the 1st app that led to the starting of my Android Career.
 
