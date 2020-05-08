@@ -32,3 +32,5 @@ Enough about me, what **The Story Writer** can do:
 <p>
   <img height=3517 src="Images/2020-5-8_19-29-51.PNG"/> 
 </p>
+
+Compile the entire app in Android Stuio or directly install the [apk file](app/release/app-release.apk).
