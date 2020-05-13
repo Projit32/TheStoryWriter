@@ -31,7 +31,7 @@ Enough about me, what **The Story Writer** can do:
   <img width=338 src="Images/The%20Story%20Writer%2020204416104440pic.jpg"/> 
 </p>
 
-* Create something new daily, it's like your personal diary, but colourful!
+* Create something new daily. It's like your personal diary, but colourful!
 
 <p>
   <img height=3517 src="Images/2020-5-8_19-29-51.PNG"/> 
