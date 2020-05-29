@@ -37,4 +37,4 @@ Enough about me, what **The Story Writer** can do:
   <img height=3517 src="Images/2020-5-8_19-29-51.PNG"/> 
 </p>
 
-Compile the entire app in Android Stuio or directly install the [apk file](https://github.com/Projit32/TheStoryWriter/blob/master/app/release/app-release.apk?raw=true).
+Check out the latest edition of this app [The Story Writer V2](https://github.com/Projit32/TheStoryWriter-V2)
